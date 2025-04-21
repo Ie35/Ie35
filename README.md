@@ -2,10 +2,10 @@
 -  While singing and writing are my other passions.
 >  Listens to: *Ado*, **
 >  Believer in redemption arcs — in stories, and in life-
-> 
+
 ![Metrics](https://metrics.lecoq.io/ie35?template=classic&gists=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&gists=false&config.timezone=Asia%2FTokyo)
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spigot](https://img.shields.io/badge/-Spigot-F68B1E?style=flat&logo=gradle&logoColor=white)
